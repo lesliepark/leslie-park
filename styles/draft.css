@@ -1,0 +1,151 @@
+/* --------------------------- GLOBAL STYLES --------------------------- */
+
+.contentwrap {
+  /* background-color: lightblue; */
+  display: block;
+  margin-top: 12%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+body {
+  font-family: Helvetica;
+  font-weight: lighter;
+  margin-left: 0%;
+  margin-right: -0.10%;
+}
+
+h2 {
+  font-weight: normal;
+  color: grey;
+  font-size: 20px;
+}
+
+h3 {
+  font-weight: lighter;
+  color: black;
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: normal;
+  margin-bottom: 2%;
+}
+
+li {
+  font-size: 15px;
+  font-weight: lighter;
+  margin-top: 2%;
+}
+
+p {
+  margin: 0.25%;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 1%;
+}
+
+.linkButton {
+  background-color: #A6D1FA;
+  display: inline-block;
+  padding: 2%;
+  border-radius: 8px;
+  margin: 2%;
+  margin-left: 0;
+}
+
+.footer {
+  width: 96%;
+  padding: 2%;
+  background-color: #2b2d2f;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  float: left;
+}
+
+/* --------------------------- RESEARCH PAGE --------------------------- */
+
+#research {
+  width: 85%;
+  padding-top: 10%;
+  margin-left: 6.5%;
+}
+
+#researchHeader {
+  width: 100%;
+}
+
+#researchInterest, #researchtopBox {
+  margin: 0%;
+  padding-bottom: 1%;
+  padding: 0%;
+}
+
+#riList {
+  list-style: none;
+  margin-top: -2%;
+  margin-left: 0%;
+  line-height: 90%;
+  padding: 0%;
+}
+
+#riBox {
+  margin-top: -19%;
+  padding: 1%;
+  position: absolute;
+  display: inline-block;
+  background: rgba(166, 209, 250, .5);
+  color: white;
+}
+
+#researchContainer {
+  width: 85%;
+  margin-left: 6.5%;
+}
+
+/* --------------------------- DESIGN & STRATEGY PAGE --------------------------- */
+
+#dsProjects {
+  width: 85%;
+  padding-top: 12.5%;
+  margin-left: 6.5%;
+  margin-bottom: 5%;
+}
+
+#dsprojectBox1 {
+  width: 100%;
+}
+
+#SPEAKeasyBox {
+  float: left;
+  width: 70%;
+}
+
+#SPEAKeasyPhoto{
+  margin: 0;
+  margin-top: 2%;
+  margin-left: 10%;
+  padding: 0;
+  float: left;
+  width: 20%;
+}
+
+#homegif {
+  width: 95%;
+}
+
+.dsprojectsBox {
+  margin: 0;
+  float: left;
+  margin-top: 2%;
+  width: 100%;
+}
+
+.dsLinks {
+  text-decoration: none;
+  color: white;
+}
