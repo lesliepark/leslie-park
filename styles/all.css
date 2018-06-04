@@ -50,6 +50,11 @@ p {
   font-weight: normal;
 }
 
+.grey {
+  color: grey;
+  font-weight: normal;
+}
+
 .footer {
   width: 96%;
   padding: 2%;
@@ -118,7 +123,7 @@ a.navLink {
 }
 
 #aboutContentContainer {
-  width: 60%;
+  width: 63%;
   float: left;
 }
 
@@ -140,32 +145,15 @@ a.navLink {
   color: #A6D1FA;
 }
 
+#thoughtsList {
+  margin-top: 0;
+  margin-left: -2%;
+}
+
 .experience_icons {
   width: 20%;
   float: left;
   padding-right: 5%;
-}
-
-#currentBox, #thoughtBox, #manifestoBox {
-  margin-top: 5%;
-}
-
-.aboutList {
-  margin-left: -5.5%;
-  margin-top: 1%;
-  list-style-type: none;
-}
-
-#manifestoBox {
-  width: 80%;
-  border: 1px solid lightgrey;
-  padding: 2.5%;
-  margin-left: -2.5%;
-  margin-bottom: 10%;
-}
-
-.manifestoList {
-  margin-left: -3%;
 }
 
 /* --------------------------- ABOUT PAGE (RIGHT CONTAINER) --------------------------- */
@@ -177,7 +165,7 @@ a.navLink {
   margin-left: 5%;
 }
 
-#aboutPic1, #aboutPic2, #aboutPic3, #aboutPic4, #aboutPic5, #aboutPic6, #aboutPic7 {
+#aboutPic1, #aboutPic2, #aboutPic3, #aboutPic4, #aboutPic5, #aboutPic6, #aboutPic7, #aboutPic8 {
   float: left;
   display: block;
   margin-top: -5%;
@@ -195,28 +183,33 @@ a.navLink {
 }
 
 #aboutPic3 {
-  width: 35%;
-  margin-left: 65%;
+  width: 45%;
+  margin-left: 55%;
 }
 
 #aboutPic4 {
-  width: 35%;
+  width: 40%;
   margin-left: 15%;
 }
 
 #aboutPic5 {
-  width: 40%;
+  width: 35%;
   margin-left: 60%;
 }
 
 #aboutPic6 {
-  width: 30%;
+  width: 40%;
   margin-left: 15%;
 }
 
 #aboutPic7 {
   width: 35%;
   margin-left: 60%;
+}
+
+#aboutPic8 {
+  width: 40%;
+  margin-left: 10%;
 }
 
 #profilePic {
@@ -340,4 +333,9 @@ a.navLink {
 #text_FoodSavior {
   width: 57.5%;
   margin-left: 2.5%;
+}
+
+#StrategySection {
+  width: 100%;
+  display: flex;
 }

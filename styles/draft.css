@@ -67,6 +67,24 @@ p {
   float: left;
 }
 
+/* --------------------------- ABOUT PAGE --------------------------- */
+#currentBox, #thoughtBox, #manifestoBox {
+  margin-top: 5%;
+}
+
+
+#manifestoBox {
+  width: 80%;
+  border: 1px solid lightgrey;
+  padding: 2.5%;
+  margin-left: -2.5%;
+  margin-bottom: 10%;
+}
+
+.manifestoList {
+  margin-left: -3%;
+}
+
 /* --------------------------- RESEARCH PAGE --------------------------- */
 
 #research {
