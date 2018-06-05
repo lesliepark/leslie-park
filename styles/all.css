@@ -1,7 +1,6 @@
 /* --------------------------- GLOBAL STYLES --------------------------- */
 
 .contentwrap {
-  /* background-color: lightblue; */
   display: block;
   margin-top: 10%;
   padding-left: 5%;
@@ -80,7 +79,7 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
-  height: auto;
+  height: 15%;
   margin-left: 0%;
   background-color: #becedb;
   /* background-color: #CCD6DE; */
@@ -89,7 +88,7 @@ header {
 }
 
 #title, #logo {
-  margin-top: 1%;
+  margin-top: 0.5%;
   margin-bottom: 1%;
   width: 7%;
   padding-left: 5%;
@@ -97,7 +96,7 @@ header {
 }
 
 .navbar {
-  width: 35%;
+  width: 50%;
   text-align: right;
 }
 
