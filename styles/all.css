@@ -3,7 +3,7 @@
 .contentwrap {
   /* background-color: lightblue; */
   display: block;
-  margin-top: 12%;
+  margin-top: 10%;
   padding-left: 5%;
   padding-right: 5%;
 }
@@ -54,7 +54,7 @@ p {
 }
 
 .blue {
-  color: lightblue;
+  color: #8cb3d9;
   font-weight: normal;
 }
 
@@ -82,9 +82,8 @@ header {
   top: 0;
   height: auto;
   margin-left: 0%;
-  background-color: #CCD6DE;
-  /* background-color: #C8E0F1; */
-  /* background-color: #2b2d2f;
+  background-color: #becedb;
+  /* background-color: #CCD6DE; */
   /* background: rgba(255, 255, 255, .5); */
   /* background: linear-gradient(rgba(82, 105, 148, 1),rgba(255,0,0,0)); */
 }
@@ -92,7 +91,7 @@ header {
 #title, #logo {
   margin-top: 1%;
   margin-bottom: 1%;
-  width: 8%;
+  width: 7%;
   padding-left: 5%;
   float: left;
 }
@@ -294,7 +293,7 @@ a.navLink {
 }
 
 .socialLinks {
-  color: lightblue;
+  color: #8cb3d9;
 }
 
 .experienceEntry {
