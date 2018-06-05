@@ -79,7 +79,7 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
-  height: 15%;
+  height: auto;
   margin-left: 0%;
   background-color: #becedb;
   /* background-color: #CCD6DE; */
@@ -88,7 +88,7 @@ header {
 }
 
 #title, #logo {
-  margin-top: 0.5%;
+  margin-top: 1%;
   margin-bottom: 1%;
   width: 7%;
   padding-left: 5%;
