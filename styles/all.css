@@ -338,6 +338,10 @@ a.navLink {
   width: 100%;
 }
 
+#WebSection, #StrategySection {
+  width: 100%;
+  display: flex;
+}
 #SPEAKeasyBox, #FoodSaviorBox {
   width: 100%;
   display: flex;
@@ -368,9 +372,4 @@ a.navLink {
 #text_FoodSavior {
   width: 57.5%;
   margin-left: 2.5%;
-}
-
-#StrategySection {
-  width: 100%;
-  display: flex;
 }
