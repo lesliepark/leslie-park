@@ -16,6 +16,7 @@ body {
 
 h1 {
   font-size: 35px;
+  font-weight: normal;
 }
 
 h2 {
@@ -123,6 +124,13 @@ a.navLinkR {
   margin-right: 5%;
 }
 
+@media only screen and (max-width: 1000px) {
+  .navbar {
+    width: 80%;
+    text-align: right;
+  }
+}
+
 /* --------------------------- ABOUT PAGE --------------------------- */
 
 #about {
@@ -151,13 +159,19 @@ a.navLinkR {
   padding-bottom: 7.5%;
 }
 
+
 #objective {
   font-weight: bold;
   font-size: 30px;
 }
 
+
 #objective2 {
   color: black;
+}
+
+.emphasizeObjective{
+  color: #A6D1FA;
 }
 
 #textColor {
